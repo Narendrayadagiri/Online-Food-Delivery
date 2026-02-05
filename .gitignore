@@ -1,0 +1,22 @@
+# Maven / Java
+backend/target/
+*.class
+*.jar
+*.war
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
